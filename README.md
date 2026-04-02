@@ -20,3 +20,4 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-clean
 <img width="1364" height="177" alt="image" src="https://github.com/user-attachments/assets/ab8a4f8d-23ff-4ce1-8958-565557eac1d8" />
 
 
+
