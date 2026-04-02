@@ -14,3 +14,9 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-clean
 <h2 align="center"> ✨ Data Cleaning  </h2> 
 
 <img width="1364" height="508" alt="image" src="https://github.com/user-attachments/assets/d7cab787-4443-4f90-ab28-077492f6cb2b" />
+
+<h2 align="center"> 🧮 Creating Pivot Tables  </h2> 
+
+<img width="1364" height="177" alt="image" src="https://github.com/user-attachments/assets/ab8a4f8d-23ff-4ce1-8958-565557eac1d8" />
+
+
