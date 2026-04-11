@@ -31,7 +31,7 @@ The dashboard visualises the most sold item, total revenue generated and the tot
 
 <img width="1318" height="452" alt="image" src="https://github.com/user-attachments/assets/7ca34d6d-037c-412e-8bc7-7956f7209c7f" />  
 
-<img width="1415" height="391" alt="image" src="https://github.com/user-attachments/assets/a6cafc5d-def7-4ff7-9bcf-614a537a97ed" />  
+<img width="1415" height="397" alt="image" src="https://github.com/user-attachments/assets/ef3cad7c-fc25-4ca3-b98b-3a9dfbe1db22" />  
 
 <img width="1417" height="388" alt="image" src="https://github.com/user-attachments/assets/81ec8416-0f45-43c1-92df-98e4ef84215b" />
 
@@ -40,8 +40,8 @@ The dashboard visualises the most sold item, total revenue generated and the tot
 - Salad is the most popular item generating the most revenue every month. It creates the most revenue whether the payment method is cash, credit card or the digital wallet. The next two items are sandwich and smoothie.
 - Most payments are made by credit card, then digital wallet and then cash.
 - A larger number of customer prefer toeat in-store.
-- The revenue generated each month is quite stable and there is not much fluctuation in year on year revenue generated
-
+- The total monthly revenue is quite stable. The trendline on the revenue generated is horizontal showing stable sales over the months apart from February where the sales dip. The month over month percentage change shows oscillation between growth and contraction. Although the revenue generated is stable, there's no long-term trend or growth.
+- 
 
 
 
