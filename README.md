@@ -31,7 +31,10 @@ The raw data as can be seen in the attached Excel worksheet has 10,081 unknown v
     
 <img width="1459" height="459" alt="image" src="https://github.com/user-attachments/assets/9fcb6533-b6b4-435f-b5f3-036a6cca76ce" />   
 
-<img width="930" height="569" alt="image" src="https://github.com/user-attachments/assets/0c914f0d-116a-443f-9f1a-99ff33e54ac2" />  
+<img width="930" height="569" alt="image" src="https://github.com/user-attachments/assets/0c914f0d-116a-443f-9f1a-99ff33e54ac2" />    
+
+<img width="1134" height="280" alt="image" src="https://github.com/user-attachments/assets/f62cd661-dd40-49cd-9a7a-d7ba012bf5c2" />
+
 <h2 align="center"> 💡 Key Insights  </h2>  
 
 
