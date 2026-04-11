@@ -4,7 +4,7 @@ This data has been downloaded from Kaggle using the following link:
 
 https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training . 
 
-This data has eight columns and 10,000 rows and covers the annual sales for a cafe for the year 2023. The columns cover the sales of items sold, price of each item, quantity of each item sold, the total money spent on each sale, payment method used, location (whether the items bought were for in-store consumption or takeaway) and the transaction date is given.  
+This data has eight columns and 10,000 rows and covers the annual sales for a cafe for the year 2023. The columns cover the sales of items sold, price of each item, quantity of each item sold, the total money spent on each sale, payment method used (cash, credit card or digital wallet), location (whether the items bought were for in-store consumption or takeaway) and the transaction date is given.  
 
 <h2 align="center"> 🎯 Objectives  </h2> 
 This data has been used to practise and display Excel proficiency. The objectives of this project are:  
@@ -27,8 +27,8 @@ The raw data as can be seen in the attached Excel worksheet has 10,081 unknown v
 
 <h2 align="center"> 📊 Creating Dashboard  </h2>   
 
-<img width="1548" height="520" alt="image" src="https://github.com/user-attachments/assets/1846f4db-f8f7-4c56-9fcd-8ccf5dc741a5" />       
-
+<img width="1305" height="448" alt="image" src="https://github.com/user-attachments/assets/843f650a-c1ab-4c34-acd8-40c05066645e" />
+    
 <img width="1459" height="459" alt="image" src="https://github.com/user-attachments/assets/9fcb6533-b6b4-435f-b5f3-036a6cca76ce" />   
 
 <img width="930" height="569" alt="image" src="https://github.com/user-attachments/assets/0c914f0d-116a-443f-9f1a-99ff33e54ac2" />  
