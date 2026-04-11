@@ -3,8 +3,11 @@
 This data has been downloaded from Kaggle using the following link:  
 
 https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training . 
-<h2 align="center"> 🎯 Objectives  </h2> 
 
+This data has eight columns and 10,000 rows and covers the annual sales for a cafe for the year 2023. The columns cover the sales of items sold, price of each item, quantity of each item sold, the total money spent on each sale, payment method used, location of consuption (whether the items bought were for in-store consumption or takeaway) and the transaction date is given.  
+
+<h2 align="center"> 🎯 Objectives  </h2> 
+This data has been used to practise and display Excel proficiency. The objectives of this project are:
 * To clean data in Excel 
 * To fill out missing values in the data from the data given 
 * To assess data quality of the cleaned data 
