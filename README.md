@@ -23,7 +23,8 @@ The raw data as can be seen in the attached Excel worksheet has 10,081 unknown v
 
 <h2 align="center"> 🧮 Creating Pivot Tables  </h2> 
 
-<img width="1364" height="177" alt="image" src="https://github.com/user-attachments/assets/ab8a4f8d-23ff-4ce1-8958-565557eac1d8" />
+<img width="1366" height="195" alt="image" src="https://github.com/user-attachments/assets/4851ff81-21d5-4c95-9c38-c6763c9775bf" />
+
 
 <h2 align="center"> 📊 Creating Dashboard  </h2>   
 
